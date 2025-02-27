@@ -4,7 +4,7 @@ A very basic shell script that I'm using to gauge the quality of already OCRed P
 
 Requires pdftotext and aspell.
 
-    chris@totoro Development % ./pdf-ocr-score.sh test-bad.pdf
+    chris@totoro pdf-ocr-score % ./pdf-ocr-score.sh test-bad.pdf
     Words:    32606
     Typos:    11034
     Typo percentage: 33
